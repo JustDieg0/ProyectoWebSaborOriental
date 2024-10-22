@@ -1,6 +1,6 @@
 <?php
 
-include_once '../IHMProyecto/connection/Conexion.php';
+include_once 'connection/Conexion.php';
 
 class Dao{
     function mostrarProductosCategoria($cate){
