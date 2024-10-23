@@ -6,8 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sabor Oriental</title>
-    <link rel="stylesheet" href="../dist/styles.css">
-    <link rel="icon" href="../images/chaufa_icon.ico">
+    <link rel="stylesheet" href="api/dist/styles.css">
+    <link rel="icon" href="api/images/chaufa_icon.ico">
     <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js"></script>
 </head>
 
