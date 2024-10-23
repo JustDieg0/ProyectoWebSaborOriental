@@ -1,6 +1,6 @@
 <?php
 
-include_once 'connection/Conexion.php';
+include_once __DIR__.'connection/Conexion.php';
 
 class Dao{
     function mostrarProductosCategoria($cate){
